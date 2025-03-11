@@ -5,8 +5,8 @@
 
 /*
  * Plugin Name: Podium
- * Version: 2.0.7
- * Stable Tag: 2.0.7
+ * Version: 2.0.8
+ * Stable Tag: 2.0.8
  * Description: Allow customers to text you right from your website, capture them as leads, and convert them to customers. Install Podium on your WordPress site in just a few clicks.
  * Author: Podium
  * Author URI: https://www.podium.com/
@@ -85,7 +85,7 @@ if ( $feature_flag == false ) {
     /*
     * Define
     */
-    define('podium_4f050d29b8BB9_VERSION', '2.0.7');
+    define('podium_4f050d29b8BB9_VERSION', '2.0.8');
     define('podium_4f050d29b8BB9_DIR', plugin_dir_path(__FILE__));
     define('podium_4f050d29b8BB9_URL', plugin_dir_url(__FILE__));
     defined('podium_4f050d29b8BB9_PATH') or define('podium_4f050d29b8BB9_PATH', untrailingslashit(plugins_url('', __FILE__)));

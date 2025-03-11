@@ -2,11 +2,11 @@
 
 Contributors: Podium  
 Tags: Podium, Podium Webchat, Webchat, Texting, Chat Widget
-Version: 2.0.7  
-Stable Tag: 2.0.7  
+Version: 2.0.8  
+Stable Tag: 2.0.8  
 License: GPLv2 or later  
 License URI: http://www.gnu.org/licenses/gpl-2.0.html  
-Tested up to: 6.6.1
+Tested up to: 6.7.2
 
 Add and customize Podium’s Web Suite tools to your WordPress website
 
