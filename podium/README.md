@@ -2,13 +2,13 @@
 
 Contributors: Podium  
 Tags: Podium, Podium Webchat, Webchat, Texting, Chat Widget
-Version: 2.0.8  
-Stable Tag: 2.0.8  
+Version: 2.0.9  
+Stable Tag: 2.0.9  
 License: GPLv2 or later  
 License URI: http://www.gnu.org/licenses/gpl-2.0.html  
-Tested up to: 6.7.2
+Tested up to: 6.8
 
-Add and customize Podium’s Web Suite tools to your WordPress website
+Add and customize Podium's Web Suite tools to your WordPress website
 
 == Description ==
 
@@ -31,8 +31,8 @@ After connecting your website to Podium, local businesses are empowered to:
 
 To install and activate the Podium plugin:
 
-1. Click **Add New** under **Plugins** in the left menu, and search “Podium.” Select the Podium plugin, and click **Install and Activate**.
-2. After it’s installed, go to the Podium plugin settings by selecting **Podium** under **Settings** in the left menu.
+1. Click **Add New** under **Plugins** in the left menu, and search "Podium." Select the Podium plugin, and click **Install and Activate**.
+2. After it's installed, go to the Podium plugin settings by selecting **Podium** under **Settings** in the left menu.
 3. Copy your unique Podium code, and paste into the plugin text box.
 4. Click **Save Changes**.
 
